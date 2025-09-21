@@ -1,0 +1,13 @@
+//set :
+duita yeu unique values store garxa
+//linkedhashset : order ma data dinxa
+//treeset : le sorting garxa
+//hash set: order not maintained
+//Map: 
+key indetify garyera value dekhauxa 
+sab dekhaudaina.duita yeutai key bhaye latest chahi dekhauxa.(override)
+//HashMap.entitysetle key value ra sab dekhauxa.
+//linked hashmap : sequence maintain ( jun suru ma rakhyeko tehi auxa)
+//treemap: sorting
+//keyset: sab keys dekhauxa
+//values: key ko values dekhauxa
