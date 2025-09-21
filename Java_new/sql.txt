@@ -1,0 +1,3 @@
+Executed SQL Statement : show databases 
+Error Number : 2002 
+Error Message: Can't connect to server on 'localhost' (10061) 

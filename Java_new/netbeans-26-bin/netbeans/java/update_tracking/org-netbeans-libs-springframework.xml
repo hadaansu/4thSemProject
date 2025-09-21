@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.springframework/1">
+    <module_version install_time="1747144353860" last="true" origin="installer" specification_version="1.65">
+        <file crc="277049246" name="config/Modules/org-netbeans-libs-springframework.xml"/>
+        <file crc="76402154" name="modules/ext/spring-5/spring-aop-5.3.31.jar"/>
+        <file crc="3660459664" name="modules/ext/spring-5/spring-aspects-5.3.31.jar"/>
+        <file crc="2786141616" name="modules/ext/spring-5/spring-beans-5.3.31.jar"/>
+        <file crc="3251370225" name="modules/ext/spring-5/spring-context-5.3.31.jar"/>
+        <file crc="4292635221" name="modules/ext/spring-5/spring-context-indexer-5.3.31.jar"/>
+        <file crc="3341255571" name="modules/ext/spring-5/spring-context-support-5.3.31.jar"/>
+        <file crc="2462717558" name="modules/ext/spring-5/spring-core-5.3.31.jar"/>
+        <file crc="3326092334" name="modules/ext/spring-5/spring-expression-5.3.31.jar"/>
+        <file crc="1539094197" name="modules/ext/spring-5/spring-instrument-5.3.31.jar"/>
+        <file crc="1456416867" name="modules/ext/spring-5/spring-jcl-5.3.31.jar"/>
+        <file crc="4089279380" name="modules/ext/spring-5/spring-jdbc-5.3.31.jar"/>
+        <file crc="2899874446" name="modules/ext/spring-5/spring-jms-5.3.31.jar"/>
+        <file crc="910944514" name="modules/ext/spring-5/spring-messaging-5.3.31.jar"/>
+        <file crc="1196003816" name="modules/ext/spring-5/spring-orm-5.3.31.jar"/>
+        <file crc="877536357" name="modules/ext/spring-5/spring-oxm-5.3.31.jar"/>
+        <file crc="387362282" name="modules/ext/spring-5/spring-test-5.3.31.jar"/>
+        <file crc="3900779287" name="modules/ext/spring-5/spring-tx-5.3.31.jar"/>
+        <file crc="4145738428" name="modules/ext/spring-5/spring-web-5.3.31.jar"/>
+        <file crc="1322298814" name="modules/ext/spring-5/spring-webflux-5.3.31.jar"/>
+        <file crc="3922588991" name="modules/ext/spring-5/spring-webmvc-5.3.31.jar"/>
+        <file crc="2200518273" name="modules/ext/spring-5/spring-websocket-5.3.31.jar"/>
+        <file crc="3683008017" name="modules/org-netbeans-libs-springframework.jar"/>
+    </module_version>
+</module>

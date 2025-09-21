@@ -1,0 +1,15 @@
+run:
+Enter roll no:
+1
+Enter Name:
+anshu
+Enter Age:
+19
+Enter Course:
+csit
+
+roll:1
+name:anshu
+age:19
+course:csit
+BUILD SUCCESSFUL (total time: 13 seconds)
